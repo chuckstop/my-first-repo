@@ -1,1 +1,1 @@
-type inm anythingasd
+type in anything
